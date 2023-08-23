@@ -1,0 +1,9 @@
+hệ thống đổi từ chức năng phân quyền thành
+hệ thống người dùng tự đăng kí qua số điện thoại.
+hệ thống hiện tại bao gồm 5 thiết bị,
+1 thiết bị hiển thị đo thông tin nhiệt độ độ ẩm.
+4 thiết bị thực hiện chức năng điều khiển.
+
+ 
+
+
